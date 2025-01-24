@@ -23,7 +23,9 @@
 
 Here are some screenshots of the homepage:
 
-![Homepage Screenshot](./images/r1.png)(./images/r2.png)
+![Homepage Screenshot]
+(./images/r1.png)
+(./images/r2.png)
 
 ## Layout
 
