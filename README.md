@@ -23,9 +23,9 @@
 
 Here are some screenshots of the homepage:
 
-![Homepage Screenshot]
-(./images/r1.png)
-(./images/r2.png)
+##Here are some screenshots of the Homepage layout:
+<img src="./images/r1.png">
+<img src="./images/r2.png">
 
 ## Layout
 
