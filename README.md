@@ -21,11 +21,13 @@
 
 ---
 
-Here are some screenshots of the homepage:
-
 ##Here are some screenshots of the Homepage layout:
+
 <img src="./images/r1.png">
+<br>
 <img src="./images/r2.png">
+
+
 
 ## Layout
 
