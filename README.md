@@ -39,7 +39,7 @@ Layout contains:
 
 - Header: Includes the logo, search bar, login, and cart options.
 - Main Section: Displays featured products, typically in a banner.
-- Product Grid: Shows products in a clean grid layout, with prices.
+- Product Grid: Shows products in a clean grid layout, with images and prices.
 - Footer: Includes links to privacy policies, terms of service, and social media icons.
 
 
