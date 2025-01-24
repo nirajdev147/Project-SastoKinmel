@@ -21,10 +21,14 @@
 
 ---
 
-##Here are some screenshots of the Homepage layout:
+## Screenshots📸
 
+Here are some screenshots of the Homepage layout:
+
+## Navbar & Content
 <img src="./images/r1.png">
-<br>
+
+## Footer panel
 <img src="./images/r2.png">
 
 
