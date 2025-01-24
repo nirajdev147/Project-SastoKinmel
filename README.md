@@ -21,6 +21,20 @@
 
 ---
 
+Here are some screenshots of the homepage:
+
+![Homepage Screenshot](./images/r1.png)
+
+## Layout
+
+Layout contains:
+
+- Header: Includes the logo, search bar, login, and cart options.
+- Main Section: Displays featured products, typically in a banner.
+- Product Grid: Shows products in a clean grid layout, with prices.
+- Footer: Includes links to privacy policies, terms of service, and social media icons.
+
+
 ## Installation
 
 1. Clone the repo:
@@ -30,6 +44,4 @@
 2. Open `index.html` in a web browser.
 
 ---
-
-
 
